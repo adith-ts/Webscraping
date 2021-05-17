@@ -24,6 +24,7 @@ final_rating = rating[rat+1:rev_rat]
 series=series.text
 print("INFO-->",series)
 print("Rating-->",final_rating)
+print('test')
     
     
 
